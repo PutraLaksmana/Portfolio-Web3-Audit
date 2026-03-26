@@ -1,4 +1,4 @@
-# My portofolio audit
+# My Portfolio Audit
 ## Profiles on Competitive Audit Platforms
 - [cantina](https://cantina.xyz/u/laksmana)
 - [codehawks](https://profiles.cyfrin.io/u/laksmana)
