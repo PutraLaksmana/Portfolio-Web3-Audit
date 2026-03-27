@@ -1,8 +1,6 @@
 # My Web3 Audit Portfolio
 
 ## 📊 Overview
-- **Top Rank:** [#4](https://code4rena.com/audits/2025-01-initia-move)  
-- **Total Earnings:** $30,000+  
 - **Audit Platforms:** [Cantina](https://cantina.xyz), [CodeHawks](https://codehawks.cyfrin.io), [Sherlock](https://sherlock.xyz), [Code4rena](https://code4rena.com), [Immunefi](https://immunefi.com)  
 - **Specialization:** EVM, Move (Aptos/Sui), Solana, Go-lang, Cross-chain Systems. 
 
