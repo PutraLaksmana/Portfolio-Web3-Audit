@@ -15,8 +15,9 @@
 ---
 
 ## 🐞 Bug Bounty
-| Date | Protocol | Platform | Languages | Status | Report |
-|------|----------|----------|-----------|--------|--------|
+| Date | Protocol | Platform | Languages | Severity | Status | Report | 
+|------|----------|----------|-----------|----------|--------|--------|
+|  Feb |     TBA  | Immunefi |    -      | Medium   |  Paid  |   TBA  |
 
 ---
 
