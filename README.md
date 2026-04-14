@@ -15,9 +15,9 @@
 ---
 
 ## 🐞 Bug Bounty
-| Date | Protocol | Platform | Languages | Severity | Status | Report | 
+| Date | Protocol | Platform | Languages | Severity | Rewards | Report | 
 |------|----------|----------|-----------|----------|--------|--------|
-|  Feb 2026 |     TBA  | Immunefi |    -      | Medium   |  Paid  |   TBA  |
+|  Feb 2026 |     TBA  | Immunefi |    -      | Medium   |  $7500  |   TBA  |
 
 ---
 
