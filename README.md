@@ -17,7 +17,7 @@
 ## 🐞 Bug Bounty
 | Date | Protocol | Platform | Languages | Severity | Rewards | Report | 
 |------|----------|----------|-----------|----------|--------|--------|
-|  Feb 2026 |     TBA  | Immunefi |    -      | Medium   |  $7500  |   TBA  |
+|  Feb 2026 |     Cross-chain/SUI  | Immunefi |    Move      | Medium   |  $7500  |   Private  |
 
 ---
 
