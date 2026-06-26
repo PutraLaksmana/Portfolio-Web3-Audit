@@ -33,6 +33,8 @@
 
 | Date | Protocol | Platform | Languages | Rank | Rewards | Findings |
 |------|----------|----------|-----------|------|---------|----------|
+| Feb 2026| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena| Go | #21| 5 USDC| 1 M| 
+| Jan 2026| [Fluid dex v2](https://audits.sherlock.xyz/contests/1225) | Sherlock| Solidity| #9 | 2,516.24 USDC | 1 M|
 | May 2025 | [Aave](https://aave.com) | [Cantina](https://cantina.xyz) | Aptos Move | [#7](https://cantina.xyz/competitions/ad445d42-9d39-4bcf-becb-0c6c8689b767/leaderboard) | 7,235.35 GHO | 1 M |
 | Apr 2025 | [ZetaChain](https://www.zetachain.com) | [Sherlock](https://audits.sherlock.xyz) | Go, Rust(Solana), Move(Sui)| [#9](https://audits.sherlock.xyz/contests/857/leaderboard) | 3,303.18 USDC | 4 M (1 Solo) |
 | Jan 2025 | Silo | [Cantina](https://cantina.xyz) | Solidity | #19 | 189.77 USDC | 1 H |
