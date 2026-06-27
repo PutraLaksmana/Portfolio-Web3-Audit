@@ -11,6 +11,7 @@
 - [CodeHawks](https://profiles.cyfrin.io/u/laksmana)
 - [Sherlock](https://audits.sherlock.xyz/watson/Laksmana)
 - [Code4rena](https://code4rena.com/@laksmana)
+- [Immunefi](https://immunefi.com/profile/p_laksmana)
 
 ---
 
