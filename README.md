@@ -34,7 +34,7 @@
 
 | Date | Protocol | Platform | Languages | Rank | Rewards | Findings |
 |------|----------|----------|-----------|------|---------|----------|
-|Apr 2026 | [Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | [Immunefi](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | Go, Solidity | #29 | 1,157 USDC | 1 H 1 M 1 L| 
+|Apr 2026 | [Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | [Immunefi](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | Go, Solidity | #29 | 1,157 USDC | 1 C 1 M 1 L| 
 | Feb 2026| [Injective Peggy Bridge](https://injective.com) | [Code4rena](https://code4rena.com/audits/2026-02-injective-peggy-bridge)| Go | #21| 5 USDC| 1 M| 
 | Jan 2026| [Fluid dex v2](https://fluid.io) | [Sherlock](https://audits.sherlock.xyz/contests/1225)| Solidity| #9 | 2,516.24 USDC | 1 M|
 | May 2025 | [Aave](https://aave.com) | [Cantina](https://cantina.xyz) | Aptos Move | [#7](https://cantina.xyz/competitions/ad445d42-9d39-4bcf-becb-0c6c8689b767/leaderboard) | 7,235.35 GHO | 1 M |
