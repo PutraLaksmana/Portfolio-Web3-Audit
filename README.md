@@ -14,6 +14,10 @@
 - [Immunefi](https://immunefi.com/profile/p_laksmana)
 
 ---
+## 🐞🕵️‍♀️ Private Bug Bounty
+| Date | Protocol | Platform | Languages | Severity | Rewards | Report | 
+|------|----------|----------|-----------|----------|--------|--------|
+|Aug 2026 | Perp Model | Private | Move | High   |  Private  | Private |
 
 ## 🐞 Bug Bounty
 | Date | Protocol | Platform | Languages | Severity | Rewards | Report | 
@@ -34,6 +38,8 @@
 
 | Date | Protocol | Platform | Languages | Rank | Rewards | Findings |
 |------|----------|----------|-----------|------|---------|----------|
+|Oct 2026| Aero| Sherlock-Audit-Engine| Solidity | Private | Private | Private |
+|July 2026| Polygon-Heimdall| Sherlock-Audit-Engine| Go, Solidity | Private | Private | Private |
 |Apr 2026 | [Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | [Immunefi](https://immunefi.com/audit-competition/audit-comp-base-azul/information/) | Go, Solidity | #29 | 1,157 USDC | 1 C 1 M 1 L| 
 | Feb 2026| [Injective Peggy Bridge](https://injective.com) | [Code4rena](https://code4rena.com/audits/2026-02-injective-peggy-bridge)| Go | #21| 5 USDC| 1 M| 
 | Jan 2026| [Fluid dex v2](https://fluid.io) | [Sherlock](https://audits.sherlock.xyz/contests/1225)| Solidity| #9 | 2,516.24 USDC | 1 M|
